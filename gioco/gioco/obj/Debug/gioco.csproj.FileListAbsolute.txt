@@ -1,0 +1,70 @@
+C:\Users\d.florini\Documents\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\d.florini\Documents\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\d.florini\Documents\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.csprojAssemblyReference.cache
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\d.florini\Documents\gioco\gioco\obj\Debug\gioco.pdb
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.csproj.AssemblyReference.cache
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.pdb
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\DAVIDE\Documents\gioco (1)\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.csprojAssemblyReference.cache
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\d.florini\Downloads\gioco (2)\gioco\gioco\obj\Debug\gioco.pdb
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.AssemblyReference.cache
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\39347\OneDrive\Desktop\gioco (2)\gioco\gioco\obj\Debug\gioco.pdb
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.AssemblyReference.cache
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\DAVIDE\Documents\gioco (4)\gioco (2)\gioco\gioco\obj\Debug\gioco.pdb
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.csprojAssemblyReference.cache
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\d.florini\Downloads\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.pdb
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\bin\Debug\gioco.exe.config
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\bin\Debug\gioco.exe
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\bin\Debug\gioco.pdb
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.AssemblyReference.cache
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.Form1.resources
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.Properties.Resources.resources
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.GenerateResource.cache
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.csproj.CoreCompileInputs.cache
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.exe
+C:\Users\39347\OneDrive\Desktop\gioco (5)\gioco (2)\gioco\gioco\obj\Debug\gioco.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "002d017b-5dd1-484e-85a8-ff6ed6368870": {
+      "ProjectGuid": "002d017b-5dd1-484e-85a8-ff6ed6368870",
+      "DisplayName": "gioco",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
